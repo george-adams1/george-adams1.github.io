@@ -1,4 +1,2 @@
 My goal is to make a meaningful contribution to the pursuit of safe artificial general intelligence.
-I have worked on applying deep reinforcement learning to financial markets.
-I have also worked on multimodal augmentation of text based transformers and on the evaluation of multimodal LLMs.
-email: george(dot)adamopoulos13@gmail(dot)com
+email: george(dot)adamopoulos@mail(dot)mcgill(dot)com
