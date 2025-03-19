@@ -10,9 +10,9 @@ I am an undergraduate student at McGill University studying computer science and
 minor in mathematics. I have been affiliated with Mila - Quebec AI Institute since April 2023 supervised by Prof. Irina 
 Rish. 
 
-My research focuses on training and interpreting largescale multimodal foundation models. 
+I am extremely motivated to contribute to what I believe is the greatest technical problem of our time: building safe AGI.
 
-This is motivated by contributing to what I believe is the greatest technical problem of our time: building safe AGI.
+I consider myself part of the effective altruism and rationalist communities. 
 
 I briefly worked in quantitative finance applying reinforcement learning to develop trading models. 
 
