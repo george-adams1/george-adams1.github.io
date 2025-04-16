@@ -8,14 +8,7 @@ permalink: /research/
 ## Research Interests
 
 I am motivated by doing things that harmonize with [the bitter lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html).
-I am currently interested in multimodal scaling laws and interpretability at scale. 
-
-## Current Projects
-
-I am fortunate to have access to Oak Ridge Leadership Computing Facility's [Summit](https://en.wikipedia.org/wiki/Summit_(supercomputer))
-and [Frontier](https://en.wikipedia.org/wiki/Frontier_(supercomputer)) (#1 on the TOP500) supercomputers. I have trained
-several large scale models on these systems including vision language models, time series foundation
-models, and byte level models. 
+I am currently interested in multimodal scaling laws and interpretability at scale.
 
 # Papers
 
